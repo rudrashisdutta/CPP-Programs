@@ -349,5 +349,12 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
-# .vscode Lauch Folder
+# Visual Studio Code
 .vscode/
+*.code-workspace
+
+# Executables
+*.exe
+
+# Google Drive File Stream
+desktop.ini
