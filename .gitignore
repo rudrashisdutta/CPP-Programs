@@ -358,3 +358,6 @@ MigrationBackup/
 
 # Google Drive File Stream
 desktop.ini
+
+# My personalised Bin Folder
+.xbin/
