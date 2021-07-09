@@ -1,4 +1,5 @@
 #include<iostream>
+#include<string>
 using namespace std;
 class Item{
     string number,price;
@@ -24,4 +25,3 @@ int main(){
     cin>>n;
     cin.ignore(1,'\n');
 }
-//TODO Complete Lab 8
