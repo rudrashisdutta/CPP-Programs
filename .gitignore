@@ -395,3 +395,5 @@ desktop.ini
 *.exe
 *.out
 *.app
+/CPP-Programs.sln
+/CppProperties.json
